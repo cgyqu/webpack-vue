@@ -4,7 +4,7 @@
   "description": "",
   "private": true,
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "loader-utils": "^1.2.3",
     "lodash": "^4.17.15",
     "opn": "^6.0.0",
